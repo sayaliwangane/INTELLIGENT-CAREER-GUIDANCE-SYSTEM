@@ -2,7 +2,7 @@
  
 Steps-->
 
-Must have: xampp server
-run python testmodel.py
-run python testapp.py
-open main.php with localhost in browser
+1. Must have: xampp server
+2. run python testmodel.py
+3. run python testapp.py
+4. open main.php with localhost in browser
