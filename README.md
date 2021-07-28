@@ -7,4 +7,4 @@ Steps-->
 3. run python testapp.py
 4. open main.php with localhost in browser
 
-Youtube link: https://www.youtube.com/watch?v=fMQfYWDIpWU
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
