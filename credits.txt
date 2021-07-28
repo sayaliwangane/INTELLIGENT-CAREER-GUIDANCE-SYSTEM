@@ -1,0 +1,7 @@
+Credits:
+Jquery
+Bootstrap
+Font-awesome
+Google Maps
+Images : Pexels, Pixabay, Unsplash
+Goolgle fonts : Lato & Montserrat
